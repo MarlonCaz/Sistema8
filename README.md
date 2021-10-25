@@ -1,2 +1,2 @@
 # Sistema8
-XD 
+Los Otros estan en privado :c 
