@@ -1,3 +1,9 @@
+/* Todo elemento en HTML se representa como una caje */
+/* CSS = Cascada styLeShee = Hoja de Estilo en Cascada */
+* {
+    background-color:rgb(199, 196, 202);
+    color: rgb(86, 0, 245);
+}
 h1 {
     font-family: sans-serif;
 }
