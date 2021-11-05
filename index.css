@@ -1,0 +1,24 @@
+* {
+    background-color:rgb(199, 196, 202);
+    color: rgb(86, 0, 245);
+    display: block;
+    font-family: sans-serif;
+}
+.texto {
+    background-color:rgb(255, 100, 20);
+    width: 30%;
+    border: 0px;
+    border-radius: 10px;
+    padding-left: 1em;
+    margin-left: 20px;
+    display: flexbox;
+    margin: 0.5em;
+}
+img {
+    height:300px;
+    width: 300px;
+}
+.salida {
+    height:150px;
+    width: 200px;
+}
